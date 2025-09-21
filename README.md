@@ -12,7 +12,7 @@ It uses **Logistic Regression** and **TF-IDF** to classify emails as **Phishing*
 ## How to Run
 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sarveshdatta/Advanced-Phishing-Email-Detector.git
 Advanced-Phishing-Detector/
 │
 ├── phishing_detector_advanced.py   # Main Streamlit app
