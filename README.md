@@ -1,4 +1,4 @@
-# ⚡ Advanced Phishing Email Detector
+# Advanced Phishing Email Detector
 
 This project is an **AI-based phishing email detector** built with **Python** and **Streamlit**.  
 It uses **Logistic Regression** and **TF-IDF** to classify emails as **Phishing** or **Safe**.
